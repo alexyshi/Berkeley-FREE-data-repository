@@ -1,1 +1,1 @@
-Data for area of Richmond, California
+Data for area of Richmond, California available as shapefiles (for use in GIS)
